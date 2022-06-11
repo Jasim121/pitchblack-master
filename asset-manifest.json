@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/pitchblack-master/static/css/main.7e6a38b6.chunk.css",
+    "main.js": "/pitchblack-master/static/js/main.33688746.chunk.js",
+    "main.js.map": "/pitchblack-master/static/js/main.33688746.chunk.js.map",
+    "runtime-main.js": "/pitchblack-master/static/js/runtime-main.8de304c6.js",
+    "runtime-main.js.map": "/pitchblack-master/static/js/runtime-main.8de304c6.js.map",
+    "static/css/2.6c0f60ba.chunk.css": "/pitchblack-master/static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.366739e9.chunk.js": "/pitchblack-master/static/js/2.366739e9.chunk.js",
+    "static/js/2.366739e9.chunk.js.map": "/pitchblack-master/static/js/2.366739e9.chunk.js.map",
+    "index.html": "/pitchblack-master/index.html",
+    "static/css/2.6c0f60ba.chunk.css.map": "/pitchblack-master/static/css/2.6c0f60ba.chunk.css.map",
+    "static/css/main.7e6a38b6.chunk.css.map": "/pitchblack-master/static/css/main.7e6a38b6.chunk.css.map",
+    "static/js/2.366739e9.chunk.js.LICENSE.txt": "/pitchblack-master/static/js/2.366739e9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/pitchblack-master/static/media/Alterwave-Regular.630c2bc2.otf",
+    "static/media/Group 25.3beb7140.png": "/pitchblack-master/static/media/Group 25.3beb7140.png",
+    "static/media/Group 26.72d6a046.png": "/pitchblack-master/static/media/Group 26.72d6a046.png",
+    "static/media/waitlist.css": "/pitchblack-master/static/media/Mask group.39e499fd.png",
+    "static/media/company.f79f785b.svg": "/pitchblack-master/static/media/company.f79f785b.svg",
+    "static/media/facebook.6088619e.svg": "/pitchblack-master/static/media/facebook.6088619e.svg",
+    "static/media/footer_image.73ceb379.svg": "/pitchblack-master/static/media/footer_image.73ceb379.svg",
+    "static/media/footer_logo.64888fac.svg": "/pitchblack-master/static/media/footer_logo.64888fac.svg",
+    "static/media/instagram.103d6fef.svg": "/pitchblack-master/static/media/instagram.103d6fef.svg",
+    "static/media/linkden.a89e75a3.svg": "/pitchblack-master/static/media/linkden.a89e75a3.svg",
+    "static/media/main_mbl.0fff1e9c.png": "/pitchblack-master/static/media/main_mbl.0fff1e9c.png",
+    "static/media/pitchblack x.4a43ee13.svg": "/pitchblack-master/static/media/pitchblack x.4a43ee13.svg",
+    "static/media/port_big.784a41f9.png": "/pitchblack-master/static/media/port_big.784a41f9.png",
+    "static/media/twitter.95fd03e6.svg": "/pitchblack-master/static/media/twitter.95fd03e6.svg",
+    "static/media/landing.css": "/pitchblack-master/static/media/website grid.5274ef96.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8de304c6.js",
+    "static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.366739e9.chunk.js",
+    "static/css/main.7e6a38b6.chunk.css",
+    "static/js/main.33688746.chunk.js"
+  ]
+}
