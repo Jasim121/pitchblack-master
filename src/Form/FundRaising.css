@@ -1,0 +1,757 @@
+.mainFundRaisingContainer {
+  width: 100%;
+  height: 100%;
+  background-color: #bf907e;
+  font-family: "Nunito", sans-serif;
+}
+.headerContainerFundRaising {
+  height: 52px;
+  background-color: white;
+  font-family: "Nunito", sans-serif;
+}
+.headingFundRaising {
+  color: #1f1d36;
+  width: 211px;
+  height: 30px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  padding-left: 133px;
+  padding-top: 11px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 25px;
+  letter-spacing: -0.01em;
+  font-family: "Nunito", sans-serif;
+}
+.paragraphsFundRaisingConatiner {
+  display: flex;
+  flex-direction: column;
+  padding-left: 80px;
+  padding-top: 27px;
+  font-family: "Nunito", sans-serif;
+}
+.fundRaisingP1 {
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 42px;
+  font-style: normal;
+  font-family: "Nunito", sans-serif;
+  font-family: "Poppins", sans-serif;
+  color: #fbede0;
+  font-family: "Nunito", sans-serif;
+}
+.fundRaisingP2 {
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 22px;
+  color: #1f1d36;
+  margin-top: -10px;
+  font-family: "Nunito", sans-serif;
+}
+
+.mainCardContainerFundRaising {
+  margin: auto;
+  min-height: 850px;
+  max-width: 85%;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-bottom: 238px;
+  position: relative;
+  font-family: "Nunito", sans-serif;
+  overflow: hidden;
+  width: 85%;
+}
+.bottomFundRaising {
+  width: 100%;
+  height: 1px;
+  background-color: #bf907e;
+  font-family: "Nunito", sans-serif;
+}
+.infoToGetStart {
+  padding-top: 22px;
+  padding-left: 46px;
+  font-family: "Nunito", sans-serif;
+}
+.paragraphInfoToGetStart {
+  font-weight: 800;
+  font-style: normal;
+  font-size: 35px;
+  line-height: 45px;
+  font-family: "Nunito", sans-serif;
+  height: 64px;
+  color: #1f1d36;
+  font-family: "Nunito", sans-serif;
+}
+.inputNameFundRaising {
+  border: none;
+  height: 40px;
+
+  font-size: 22px;
+  line-height: 28px;
+  color: #878787;
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  margin-top: 55px;
+  margin-left: 22px;
+  outline: none;
+  width: 93%;
+  font-family: "Nunito", sans-serif;
+}
+.line {
+  width: 93%;
+  height: 0px;
+  border: 0.5px solid #000000;
+  transform: rotate(-0.11deg);
+}
+.line1 {
+  width: 93%;
+  height: 0px;
+  border: 0.5px solid #ff0000;
+  transform: rotate(-0.11deg);
+}
+.inputEmailToGetStart {
+  border: none;
+  height: 40px;
+  /* width: 495px; */
+  font-size: 22px;
+  line-height: 28px;
+  color: #878787;
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  margin-top: 55px;
+  margin-left: 22px;
+  outline: none;
+  font-family: "Nunito", sans-serif;
+  width: 93%;
+}
+.asterisk {
+  color: red;
+  font-size: 30px;
+}
+.inputPasswordToGetStart {
+  border: none;
+  height: 40px;
+  /* width: 495px; */
+  font-size: 22px;
+  line-height: 28px;
+  color: #878787;
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  margin-top: 55px;
+  margin-left: 22px;
+  outline: none;
+
+  width: 93%;
+}
+.incorporateCompany {
+  padding-left: 84px;
+  padding-top: 25px;
+}
+.labelIncorporate {
+  margin-left: 37px;
+
+  height: 56px;
+  color: #878787;
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 15px;
+}
+.radioDivIncorporate {
+  margin-top: 40px;
+}
+.radioDivIncorporate1 {
+  margin-top: 30px;
+}
+.incorporateParagraph {
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 35px;
+  color: #878787;
+  font-weight: bold;
+}
+/* .inputRadio{
+    width: 34px;
+    height: 34px;
+    
+    
+} */
+/* input[type=radio]{
+    transform: scale(2);
+    background-color: red;
+} */
+.inputCompanyName {
+  border: none;
+  height: 50px;
+  width: 90%;
+  font-size: 25px;
+  line-height: 56px;
+  color: #878787;
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  outline: none;
+  margin-left: 22px;
+}
+.inputComapnyDesc {
+  border: none;
+  height: 75px;
+  width: 90%;
+  font-size: 25px;
+  line-height: 56px;
+  color: #878787;
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  outline: none;
+  margin-left: 22px;
+  margin-top: 25px;
+}
+
+.yourCompanyParagraph {
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 56px;
+  color: #878787;
+  font-weight: bold;
+  height: 58px;
+}
+.yourCompany {
+  padding-left: 68px;
+  padding-top: 48px;
+  /* display: none; */
+}
+.companyStateP {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 45px;
+  color: #000000;
+  height: 47px;
+  margin-top: 54px;
+  margin-left: 22px;
+  font-family: "Nunito", sans-serif;
+}
+.myClassName {
+  width: 525px;
+  height: 55px;
+  background: #c4c4c4;
+  border-color: #c4c4c4 !important;
+  /* border: none;
+  padding: 4px;*/
+}
+.stateCompanyInput {
+  width: 500px;
+  height: 70px;
+  background: #c4c4c4;
+  margin-top: 5px;
+  font-size: 30px;
+  color: white;
+  margin-top: -22px;
+  border: none;
+  font-family: "Nunito", sans-serif;
+}
+.stateCompanyInput:focus {
+  outline: none;
+}
+.inputUrl {
+  border: none;
+  height: 75px;
+  width: 90%;
+  font-size: 25px;
+  line-height: 49px;
+  color: #878787;
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  outline: none;
+  margin-left: 22px;
+  padding-top: 43px;
+}
+.lineEnd {
+  width: 93%;
+  height: 0px;
+  border: 0.5px solid #000000;
+  transform: rotate(-0.11deg);
+}
+.btnMainContinue {
+  position: absolute;
+  bottom: 20px;
+  right: 58px;
+}
+.btnContinue {
+  width: 170px;
+  height: 50px;
+  background: #1f1d36;
+  border-radius: 13px;
+  color: white;
+  font-size: 18px;
+  font-family: "Nunito", sans-serif;
+  text-align: left;
+  padding-left: 35px;
+  cursor: pointer;
+  border-color: #1f1d36;
+}
+
+.icon-img {
+  position: absolute;
+  width: 10px;
+  height: 8px;
+  right: 20px;
+  top: 22px;
+}
+.btnMainContinue {
+  padding-bottom: 50px;
+}
+.stateCompanyDiv {
+  margin-left: 25px !important;
+  color: #878787 !important;
+}
+
+@media (max-width: 1148px) {
+  .labelIncorporate {
+    line-height: 39px;
+  }
+  .labelIncorporate {
+    padding-right: 20px;
+    font-size: 20px;
+  }
+  .paragraphQuestionaire {
+    font-size: 26px !important;
+    padding-right: 20px !important;
+    line-height: 33px !important;
+  }
+}
+@media (max-width: 1148px) {
+  .labelIncorporate {
+    line-height: 39px;
+  }
+  .labelIncorporate {
+    padding-right: 20px;
+    font-size: 20px;
+  }
+  .paragraphQuestionaire {
+    font-size: 23px !important;
+    padding-right: 20px !important;
+    line-height: 33px !important;
+  }
+}
+
+@media (max-width: 907px) {
+  .paragraphQuestionaire {
+    font-size: 20px !important;
+  }
+}
+@media (max-width: 890px) {
+  .inputComapnyDesc {
+    font-size: 22px;
+  }
+  .inputCompanyName {
+    font-size: 22px;
+  }
+  .btnMainContinue {
+    margin-right: 12px;
+  }
+  .paragraphQuestionaire {
+    padding-right: 15px;
+    font-size: 20px !important;
+    line-height: 40px !important;
+  }
+  .paragraphAreReady {
+    padding-right: 15px;
+    font-size: 20px !important;
+    line-height: 40px !important;
+  }
+  .labelIncorporate {
+    font-size: 18px;
+  }
+  .radioDivIncorporate1 {
+    padding-right: 20px;
+  }
+}
+
+@media (max-width: 802px) {
+  .paragraphQuestionaire {
+    font-size: 19px !important;
+  }
+  .inputUrl {
+    font-size: 16px;
+  }
+}
+@media (max-width: 795px) {
+  .inputComapnyDesc {
+    font-size: 15px;
+  }
+  .inputCompanyName {
+    font-size: 15px;
+  }
+  .paragraphInfoToGetStart {
+    padding-right: 20px;
+    font-size: 25px;
+  }
+}
+@media (max-width: 767px) {
+  .paragraphQuestionaire {
+    font-size: 16px !important;
+  }
+}
+
+@media (max-width: 753px) {
+  .stateCompanyInput {
+    width: 373px;
+    padding-left: 20px;
+  }
+  .yourCompanyParagraph {
+    font-size: 25px;
+    padding-right: 20px;
+  }
+  .companyStateP {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 736px) {
+  .mainCardContainerFundRaising {
+    min-height: 1170px !important;
+    overflow: hidden;
+    width: 85%;
+  }
+  .incorporateParagraph {
+    padding-right: 20px !important;
+  }
+}
+
+@media (max-width: 706px) {
+  .inputComapnyDesc {
+    width: 94%;
+    font-size: 16px;
+  }
+  .inputCompanyName {
+    font-size: 16px;
+  }
+}
+@media (max-width: 692px) {
+  .stateCompanyInput {
+    width: 322px;
+  }
+  .companyStateP {
+    font-size: 18px;
+  }
+}
+@media (max-width: 667px) {
+  .mainCardContainerFundRaising {
+    min-height: 1260px;
+    overflow: hidden;
+    width: 85%;
+  }
+}
+
+@media (max-width: 662px) {
+  .inputCompanyName {
+    font-size: 14px;
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 50px;
+  }
+  .inputComapnyDesc {
+    width: 319px;
+    font-size: 13px;
+    margin-left: 10px;
+  }
+
+  .yourCompany {
+    padding-left: 20px;
+  }
+  .paragraphsFundRaisingConatiner {
+    padding-left: 31px;
+  }
+  .infoToGetStart {
+    padding-left: 31px;
+  }
+  .incorporateCompany {
+    padding-left: 45px;
+  }
+}
+@media (max-width: 606px) {
+  .paragraphQuestionaire {
+    font-size: 14px !important;
+  }
+}
+@media (max-width: 558px) {
+  .inputPasswordToGetStart {
+    font-size: 14px;
+  }
+  .inputPasswordToGetStar {
+    width: 100%;
+  }
+  .inputEmailToGetStart {
+    font-size: 14px;
+  }
+  .inputNameFundRaising {
+    font-size: 14px;
+  }
+}
+@media (max-width: 537px) {
+  .paragraphQuestionaire {
+    font-size: 12px !important;
+    line-height: 35px !important;
+  }
+}
+@media (min-width: 531px) {
+}
+@media (max-width: 528px) {
+  .stateCompanyInput {
+    width: 267px;
+  }
+  .companyStateP {
+    line-height: 30px;
+    padding-right: 20px;
+  }
+  .inputUrl {
+    font-size: 14px;
+  }
+
+  .incorporateParagraph {
+    font-size: 20px;
+  }
+}
+@media (max-width: 516px) {
+  .inputNameFundRaising {
+    margin-top: 136px;
+  }
+  .paragraphAreReady {
+    font-size: 14px !important;
+  }
+  .labelIncorporate {
+    font-size: 15px;
+  }
+}
+@media (max-width: 472px) {
+  .inputNameFundRaising {
+    width: 80%;
+  }
+
+  .inputEmailToGetStart {
+    width: 80%;
+  }
+  .inputPasswordToGetStart {
+    width: 91%;
+  }
+  .stateCompanyInput {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 466px) {
+  .paragraphQuestionaire {
+    font-size: 11px !important;
+    line-height: 31px !important;
+  }
+}
+
+@media (max-width: 450px) {
+  .btnMainContinue {
+    right: 27px;
+  }
+  .stateCompanyDiv {
+    padding-right: 10px !important;
+  }
+
+  .fundRaisingP2 {
+    padding-right: 23px !important;
+  }
+}
+
+/* @media (max-width:413px) {
+    .stateCompanyInput {
+        width: 280px;
+       
+
+    }
+    .inputPasswordToGetStart{
+        width: 87%;
+        font-size: 12px;
+    
+    }
+
+   
+} */
+@media (max-width: 430px) {
+  .stateCompanyInput {
+  }
+  .inputComapnyDesc {
+    width: 90%;
+    font-size: 11px;
+  }
+
+  .paragraphQuestionaire {
+    font-size: 9px !important;
+    line-height: 31px !important;
+  }
+}
+
+@media (max-width: 400px) {
+  .infoToGetStart {
+    padding-top: 1px;
+    padding-left: 30px;
+  }
+
+  .fundRaisingP2 {
+    font-family: "Nunito", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+
+    line-height: 40px;
+    color: #1f1d36;
+  }
+  .fundRaisingP1 {
+    font-weight: 800;
+    padding-right: 20px;
+    line-height: 44px;
+    font-style: normal;
+    font-family: "Nunito", sans-serif;
+    color: #fbede0;
+  }
+  .headingFundRaising {
+    padding-left: 100px;
+  }
+  .stateCompanyInput {
+    width: 224px;
+  }
+  .inputCompanyName {
+    width: 88%;
+  }
+}
+
+@media (max-width: 388px) {
+  .inputCompanyName {
+    margin-top: 80px;
+    font-size: 12px;
+    width: 90%;
+  }
+  .inputPasswordToGetStart {
+    width: 83%;
+    font-size: 12px;
+  }
+}
+@media (max-width: 382px) {
+  .inputComapnyDesc {
+    width: 90%;
+    font-size: 10px;
+  }
+
+  .inputCompanyName {
+    font-size: 12px;
+  }
+
+  .inputUrl {
+    font-size: 15px;
+  }
+}
+@media (max-width: 362px) {
+  .paragraphQuestionaire {
+    font-size: 8px !important;
+    line-height: 25px !important;
+  }
+}
+
+@media (max-width: 350px) {
+  .inputComapnyDesc {
+    width: 93%;
+    font-size: 9px;
+  }
+
+  .inputCompanyName {
+    font-size: 10px;
+  }
+  .stateCompanyInput {
+    width: 206px;
+  }
+  .inputPasswordToGetStart {
+    width: 88%;
+    font-size: 10px;
+  }
+  .inputNameFundRaising {
+    font-size: 11px;
+  }
+
+  .inputEmailToGetStart {
+    font-size: 11px;
+  }
+  .btnMainContinue {
+    right: 12px;
+  }
+  .inputUrl {
+    font-size: 13px;
+    width: 88%;
+  }
+  .headingFundRaising {
+    padding-left: 82px;
+  }
+}
+input[type="radio"]:after {
+  width: 30px;
+  height: 30px;
+  border-radius: 25px;
+  top: -11px;
+  left: -11px;
+  position: relative;
+  background-color: #c4c4c4;
+  content: "";
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid white;
+  cursor: pointer;
+}
+
+input[type="radio"]:checked:after {
+  width: 30px;
+  height: 30px;
+  border-radius: 25px;
+  top: -11px;
+  left: -11px;
+  position: relative;
+  background-color: #bf907e;
+  content: "";
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid white;
+}
+.paragraphQuestionaire {
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 56px;
+  color: #878787;
+  font-weight: bold;
+  padding-top: 24px;
+}
+
+.paddingDiv {
+  padding-bottom: 357px;
+}
+.paragraphAreReady {
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 56px;
+  color: #878787;
+  padding-top: 11px;
+  font-weight: bold;
+}
+#inputID {
+  margin-top: 25px;
+}
